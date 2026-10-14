@@ -2,6 +2,7 @@
 
 # Exercise 10: Count even and odd numbers between 1 and 50.
 
+print("by sanskriti saxena ")
 even_count = 0
 odd_count = 0
 
