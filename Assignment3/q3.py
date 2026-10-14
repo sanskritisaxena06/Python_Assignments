@@ -8,6 +8,9 @@
 # Stock = 0 -> Out of Stock
 # Stock <= 5 -> Low Stock
 # Stock > 5 -> Available
+
+
+print("by sanskriti saxena ")
 products = {
     "Laptop": 10,
     "Mouse": 3,
