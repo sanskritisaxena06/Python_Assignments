@@ -9,7 +9,7 @@
 # Otherwise -> Regular Account
 # Balance = 0 -> No Balance
 # Balance < 0 -> Overdraft
-
+print("by sanskriti saxena ")
 accounts = {
     "Rahul": 25000,
     "Amit": 5000,
