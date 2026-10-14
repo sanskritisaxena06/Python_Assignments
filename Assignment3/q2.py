@@ -9,6 +9,7 @@
 # Marks >= 40 -> Average
 # Marks < 40 -> Fail
 
+print("by sanskriti saxena ")
 students = {
     "Rahul": 85,
     "Amit": 35,
