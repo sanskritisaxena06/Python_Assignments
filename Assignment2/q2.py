@@ -10,6 +10,7 @@
 # Otherwise -> Pass
 # If any subject is below 40 -> Fail.
 
+print("by sanskriti saxena ")
 marks1 = float(input("Enter marks of subject 1: "))
 marks2 = float(input("Enter marks of subject 2: "))
 marks3 = float(input("Enter marks of subject 3: "))
