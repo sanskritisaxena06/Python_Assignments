@@ -14,6 +14,7 @@
 # No discount.
 # Print final amount.
 
+print("by sanskriti saxena ")
 cart_amount = float(input("Enter cart amount: "))
 premium = input("Are you a premium member? (yes/no): ")
 
