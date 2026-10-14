@@ -8,7 +8,7 @@
 # Marks >= 40 -> Eligible
 # Marks < 40 -> Failed in Exam
 # Attendance < 75 -> Not Eligible
-
+print("by sanskriti saxena ")
 students = {
     "Rahul": {"attendance": 85, "marks": 70},
     "Amit": {"attendance": 60, "marks": 80},
