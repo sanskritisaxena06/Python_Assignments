@@ -8,6 +8,8 @@
 # Marks >= 40 -> Pass
 # Marks < 40 -> Fail
 
+print("by sanskriti saxena ")
+
 students = {
     "Rahul": 75,
     "Amit": 32,
