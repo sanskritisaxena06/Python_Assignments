@@ -9,6 +9,7 @@
 # Otherwise -> Expensive Product
 # Price < 1000 -> Affordable Product
 
+print("by sanskriti saxena ")
 products = {
     "Mobile": 15000,
     "Mouse": 500,
