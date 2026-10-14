@@ -12,6 +12,7 @@
 #
 # Salary < 50,000 -> Junior Employee
 
+print("by sanskriti saxena ")
 employees = {
     "Rahul": {"salary": 60000, "department": "IT"},
     "Amit": {"salary": 40000, "department": "HR"},
