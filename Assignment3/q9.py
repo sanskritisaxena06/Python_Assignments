@@ -11,7 +11,7 @@
 # Salary < 50,000:
 # Experience >= 3 -> Experienced Junior
 # Otherwise -> Fresher/Junior
-
+print("by sanskriti saxena ")
 employees = {
     "Rahul": {"salary": 60000, "experience": 6},
     "Amit": {"salary": 45000, "experience": 4},
