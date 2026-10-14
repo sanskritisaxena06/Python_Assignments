@@ -11,6 +11,7 @@
 # Otherwise -> Full price.
 # If no seats -> "House Full".
 
+print("by sanskriti saxena ")
 seats = int(input("Enter number of available seats: "))
 
 if seats > 0:
